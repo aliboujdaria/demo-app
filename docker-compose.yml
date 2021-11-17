@@ -1,3 +1,4 @@
+# Construction of the db
 mysql:
   image: mysql:5.7
   ports:
